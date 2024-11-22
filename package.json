@@ -2,11 +2,7 @@
   "name": "audio-conversion",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build",
-    "start": "vercel start"
-  },
+
   "dependencies": {
     "fluent-ffmpeg": "^2.1.2",
     "ffmpeg-static": "^4.3.0",
